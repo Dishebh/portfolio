@@ -1,0 +1,159 @@
+{
+  "main": {
+    "name":"Dishebh Bhayana",
+    "occupation":"Software developer",
+    "description":"I'm an optimistic person but I'm also realistic about how satisfactory or unsatisfactory the current situation is.",
+    "image":"profilepic.jpg",
+    "bio":"I am a technical enthusiast, a gamer, a writer, a freelancer and many more. I dived into the technical world hoping to learn about the advancing technology, and followed my passion in a bid to learn and discover myself. Want to know more about me? Why don't you go ahead and see for yourself...",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "dishebh27@gmail.com",
+    "phone": "999-182-3349",
+    "address":{
+      "street":"7/47 Model Town",
+      "city":"Bahadurgarh",
+      "state":"Haryana",
+      "zip": "124507"
+    },
+    "website": "https://dishebh.github.io",
+    "resumedownload":"https://drive.google.com/open?id=1HhtrZiFkUuu4V46VN5hG71yehbKI8fWN",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/dishebh.bhayana",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"quora",
+        "url":"https://www.quora.com/profile/Dishebh",
+        "className":"fab fa-quora"
+      },
+      {
+        "name":"goodreads",
+        "url":"https://www.goodreads.com/user/show/96273495-dishebh",
+        "className":"fab fa-goodreads"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/dishebh-bhayana-37796816b/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/dishebh_12132/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/Dishebh",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"NIT Hamirpur",
+        "degree":"Bachelors in Electronics and Communication Engineering",
+        "graduated":"May 2022",
+        "score":"CGPA: 8.85"
+      },
+      {
+        "school":"Bal Bharti School",
+        "degree":"PCM, English, Computer Science, Economics",
+        "graduated":"March 2018",
+        "score":"percentage: 94.4"
+      }
+    ],
+    "work":[
+      {
+        "company":"FOSSASIA",
+        "title":"Open Source Contributor",
+        "years":"November 2019 - Present",
+        "description":"Work on the web development projects of FOSSASIA"
+      },
+      {
+        "company":"Coding Blocks",
+        "title":"Content Editor",
+        "years":"September 2019 - Present",
+        "description":"Create and edit content for Coding Blocks."
+      },
+      {
+        "company":"Microsoft",
+        "title":"Microsoft Student Partner",
+        "years":"September 2019 - Present",
+        "description":"Spread and promote Microsoft tech stack among the students."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Javascript",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
+      },
+      {
+        "name":"C++",
+        "level":"65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Covid19 Tracker",
+        "category":"Web app to track the the cases of COVID19 in countries across the world.",
+        "image":"covid19.jpg",
+        "url":"https://covid19-tracker-dishebh.netlify.com/"
+      },
+      {
+        "title":"Sent-i",
+        "category":"Realtime chat application with sentiment analysis",
+        "image":"chat.png",
+        "url":"https://github.com/Dishebh/Sent-i"
+      },
+      {
+        "title":"Jarvis",
+        "category":"Your own smart chat bot",
+        "image":"jarvis.jpg",
+        "url":"https://github.com/Dishebh/Jarvis"
+      },
+      {
+        "title":"Recipe app",
+        "category":"Web app to give you the recipe of any dish you like!",
+        "image":"recipe.jpg",
+        "url":"https://github.com/Dishebh/Recipe-app"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Without ambition one starts nothing. Without work one finishes nothing. The prize will not be sent to you. You have to win it.",
+        "user":"Ralph Waldo Emerson"
+      },
+      {
+        "text":"The way to get started is to quit talking and begin doing.",
+        "user":"Walt Disney"
+      }
+    ]
+  }
+}
