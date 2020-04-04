@@ -28,7 +28,7 @@ const Contact = props => {
       <div className="row">
         <div className="eight columns">
 
-          <form action="https://usebasin.com/f/35e500cce4d6" method="POST" id="contactForm" name="contactForm" data-netlify="true">
+          <form action="https://usebasin.com/f/35e500cce4d6" method="POST" id="contactForm" name="contactForm" netlify>
             <fieldset>
               <div>
                 <label htmlFor="contactName">Name <span className="required">*</span></label>
