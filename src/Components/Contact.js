@@ -47,7 +47,7 @@ const Contact = props => {
                 <textarea name="contactMessage" cols="50" rows="15" id="contactMessage" required></textarea>
               </div>
               <div>
-                <button className="submit">Submit</button>
+                <button type="submit" className="submit">Submit</button>
                 <span id="image-loader">
                   <img alt="" src="images/loader.gif" />
                 </span>
